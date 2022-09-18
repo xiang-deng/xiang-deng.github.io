@@ -1,10 +1,10 @@
 ---
 title: "DOM-LM: Learning Generalizable Representations for HTML Documents"
 collection: publications
+authors: ' <b>Xiang Deng</b>,  Prashant Shiralkar,  Colin Lockard,  Binxuan Huang,  Huan Sun, '
 permalink: /publication/2022-01-01-DOM-LM-Learning-Generalizable-Representations-for-HTML-Documents
 date: 2022-01-01
-venue: 'In the proceedings of arXiv Preprint'
+venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2201.10608'
-citation: ' Xiang Deng,  Prashant Shiralkar,  Colin Lockard,  Binxuan Huang,  Huan Sun, &quot;DOM-LM: Learning Generalizable Representations for HTML Documents.&quot; In the proceedings of arXiv Preprint, 2022.'
+biburl: 'https://dblp.org/rec/journals/corr/abs-2201-10608.bib'
 ---
-[Access paper here](https://arxiv.org/abs/2201.10608){:target="_blank"}

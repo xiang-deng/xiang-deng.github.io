@@ -1,10 +1,11 @@
 ---
 title: "TURL: Table Understanding through Representation Learning"
 collection: publications
+authors: ' <b>Xiang Deng</b>,  Huan Sun,  Alyssa Lees,  You Wu,  Cong Yu, '
 permalink: /publication/2020-01-01-TURL-Table-Understanding-through-Representation-Learning
 date: 2020-01-01
-venue: 'In the proceedings of Proceedings of the VLDB Endowment, Vol. 14, No. 3'
+venue: 'the VLDB Endowment'
 paperurl: 'http://www.vldb.org/pvldb/vol14/p307-deng.pdf'
-citation: ' Xiang Deng,  Huan Sun,  Alyssa Lees,  You Wu,  Cong Yu, &quot;TURL: Table Understanding through Representation Learning.&quot; In the proceedings of Proceedings of the VLDB Endowment, Vol. 14, No. 3, 2020.'
+biburl: 'https://dblp.org/rec/journals/pvldb/DengSL0020.bib'
+codeurl: 'https://github.com/sunlab-osu/TURL'
 ---
-[Access paper here](http://www.vldb.org/pvldb/vol14/p307-deng.pdf){:target="_blank"}
