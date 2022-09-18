@@ -6,26 +6,33 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
 
-  <body>
+<head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Exo+2">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans">
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body>
 
-    {{ content }}
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+  {{ content }}
 
-    {% include scripts.html %}
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
 
-  </body>
+  {% include scripts.html %}
+
+</body>
+
 </html>
