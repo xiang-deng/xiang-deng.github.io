@@ -8,4 +8,5 @@ venue: 'the VLDB Endowment'
 paperurl: 'http://www.vldb.org/pvldb/vol14/p307-deng.pdf'
 biburl: 'https://dblp.org/rec/journals/pvldb/DengSL0020.bib'
 codeurl: 'https://github.com/sunlab-osu/TURL'
+highlight: '2022 ACM SIGMOD Research Highlight Award'
 ---

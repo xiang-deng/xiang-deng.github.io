@@ -7,4 +7,5 @@ date: 2022-01-01
 venue: 'arXiv Preprint'
 paperurl: 'https://doi.org/10.48550/arXiv.2207.05223'
 biburl: 'https://dblp.org/rec/journals/corr/abs-2207-05223.bib'
+highlight: 'Ranked 3rd place in the inaugural Alexa Prize TaskBot Challenge'
 ---
