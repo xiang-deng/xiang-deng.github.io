@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science and Engineering, The Ohio State University, 2018 - 2023 (expected)
+* B.Eng. in Computer Science, School of The Gifted Young, University of Science and Technology of China, 2014 - 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2018 - present: The Ohio State University
+  * Graduate Research Associate
+  * Supervisor: Dr. Huan Sun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2022 - Oct 2022: **Google Research**
+  * Research Intern
+  * Supervisor: Vasilisa Bashlovkina, Feng Han, Simon Baumgartner
+
+* May 2021 - Aug 2021: **Amazon**
+  * Applied Scientist Intern
+  * Supervisor: Dr. Prashant Shiralkar, Dr. Colin Lockard, Dr. Binxuan Huang
+
+* May 2020 - Aug 2020: **Microsoft Research**
+  * Research Intern
+  * Supervisor: Dr. Matthew Richardson, Dr. Ahmed Awadallah, Dr. Christopher Meek, Dr. Oleksandr Polozov
+
+* Dec 2017 - May 2018: **Microsoft Research Asia**
+  * Research Intern
+  * Supervisor: Dr. Lei Cui
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-pub-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 3rd place in the Alexa Prize TaskBot Challenge, *Amazon*, 2022
+* SIGMOD Research Highlight, *SIGMOD*, 2022
+* Student Travel Award, *KDD 2019*, July 2019
+* Student Scholarship, *USTC*, 2015/2016/2017
+* Freshman Scholarship, *USTC*, 2014
+
+Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Program Committee/Reviewer**
+  * ACL ARR, AAAI 2022, SUKI 2022, NLP4Prog 2021, NLPCC 2020/2021/2022
+* **Secondary/External Reviewer**
+  * KDD 2020, NAACL 2019, KDD 2019
