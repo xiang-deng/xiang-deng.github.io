@@ -1,35 +1,34 @@
 ---
-title: "Experience"
+title: "Education"
 permalink: /experience/
 author_profile: true
 ---
 
 {% include base_path %}
-
-* Ph.D in Computer Science and Engineering, **The Ohio State University**, 2018 - 2023 (expected)
-* B.Eng. in Computer Science, School of The Gifted Young, **University of Science and Technology of China**, 2014 - 2018
+* **The Ohio State University**, 2018 - 2023 (expected)<br>Studying towards Ph.D, Computer Science and Engineering
+* **University of Science and Technology of China**, 2014 - 2018<br>B.Eng. in Computer Science, School of The Gifted Young
 
 Work experience
 ======
-* Aug 2018 - present: **The Ohio State University**
+* **The Ohio State University**, Aug 2018 - present
   * Graduate Research Associate
-  * Supervisor: Prof. Huan Sun
+  * Supervisor: Prof. *Huan Sun*
 
-* May 2022 - Oct 2022: **Google Research**
+* **Google Research**, May 2022 - Oct 2022
   * Research Intern
-  * Supervisor: Vasilisa Bashlovkina, Feng Han, Simon Baumgartner
+  * Supervisor: *Vasilisa Bashlovkina*\*, *Feng Han*, *Simon Baumgartner*
 
-* May 2021 - Aug 2021: **Amazon**
+* **Amazon**, May 2021 - Aug 2021
   * Applied Scientist Intern
-  * Supervisor: Prashant Shiralkar, Colin Lockard, Binxuan Huang
+  * Supervisor: *Prashant Shiralkar*\*, *Colin Lockard*, *Binxuan Huang*
 
-* May 2020 - Aug 2020: **Microsoft Research**
+* **Microsoft Research**, May 2020 - Aug 2020
   * Research Intern
-  * Supervisor: Matthew Richardson, Ahmed Awadallah, Christopher Meek, Oleksandr Polozov
+  * Supervisor: *Matthew Richardson*\*, *Ahmed Awadallah*, *Christopher Meek*, *Oleksandr Polozov*
 
-* Dec 2017 - May 2018: **Microsoft Research Asia**
+* **Microsoft Research Asia**, Dec 2017 - May 2018
   * Research Intern
-  * Supervisor: Lei Cui
+  * Supervisor: *Lei Cui*
 
 <!-- Publications
 ======

@@ -12,9 +12,11 @@ redirect_from:
 
 Research
 ===
-My research interests lie in NLP and data mining, with emphasis on knowledge discovery and utilization from heterogeneous sources. The aim is to build AI powered data systems that can assist with information acquisition and decision making for regular users as well as domain experts in Digital Era. Specifically, I am exploring the following directions:
-- **Large-scale pretraining and representation learning** for data from heterogeneous sources, e.g., web texts and tables, knowledge graphs, and databases.
+My research interests lie in NLP and data mining, with emphasis on knowledge discovery and utilization from heterogeneous sources. The aim is to build AI-powered data systems that can assist with information acquisition and decision making for regular users as well as domain experts in Digital Era. Specifically, I am exploring the following directions:
+- **Large-scale pretraining and representation learning** for data from heterogeneous sources, e.g., web texts and tables, knowledge graphs, and databases; both for general and domain-specific applications
 - **Building natural language interfaces** (e.g., question answering, semantic parsing, and dialog systems) with varied data and service as backend.
+
+🏴 <b style="color:#C86D52">I'm looking for full-time positions (I will graduate in Spring 2023)! Feel free to drop me an email if you have openings! [CV (Sept. 2022)](/files/CV_extended.pdf)</b>
 
 News
 ===
