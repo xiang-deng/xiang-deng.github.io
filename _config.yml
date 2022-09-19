@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Deng's Homepage"
+title                    : "Xiang Deng's<br>Homepage"
 title_separator          : "-"
 name                     : &name "Xiang Deng"
 description              : &description "This is the homepage for Xiang Deng, PhD. Candidate at Ohio State."

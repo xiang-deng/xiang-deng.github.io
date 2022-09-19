@@ -31,6 +31,9 @@ Consolas,
 "Lucida Console",
 monospace;
 
+$sans-serif-header : "Raleway",
+$sans-serif;
+
 /* sans serif typefaces */
 $sans-serif-narrow : $sans-serif;
 $helvetica : Helvetica,
@@ -51,7 +54,7 @@ $garamond : Garamond,
 serif;
 
 $global-font-family : $sans-serif;
-$header-font-family : $sans-serif;
+$header-font-family : $sans-serif-header;
 $caption-font-family : $serif;
 
 /* type scale */
