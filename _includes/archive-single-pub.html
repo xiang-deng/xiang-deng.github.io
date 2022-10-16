@@ -33,7 +33,7 @@
       {{ post.authors }}<br>
       In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}<br>
       {% if post.highlight %} <b style="color:#C86D52">{{ post.highlight }}</b><br> {% endif %}
-      {% if post.url %} <a href="{{ post.url }}">[Paper]</a> {% endif %}
+      {% if post.paperurl %} <a href="{{ post.paperurl }}">[Paper]</a> {% endif %}
       {% if post.codeurl %} <a href="{{ post.codeurl }}">[Code]</a> {% endif %}
       {% if post.dataurl %} <a href="{{ post.dataurl }}">[Data]</a> {% endif %}
       {% if post.biburl %} <a href="{{ post.biburl }}">[Bib]</a> {% endif %}
