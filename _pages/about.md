@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Hi*, I am a fifth year Ph.D. candidate in Computer Science & Engineering at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to intern at [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/). Currently, I am also a part-time student researcher at Google Research.
+*Hi*, I am a fifth year Ph.D. candidate in Computer Science & Engineering at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to intern and work with many wonderful industrial collaborators from [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/).
 
 Research
 ===
