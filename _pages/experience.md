@@ -38,6 +38,7 @@ Work experience
 
 Awards
 ======
+* **Presidential Fellowship**, *OSU*, 2022
 * **3rd place in the Alexa Prize TaskBot Challenge**, *Amazon*, 2022
 * **SIGMOD Research Highlight**, *SIGMOD*, 2022
 * **Student Travel Award**, *KDD 2019*, July 2019
