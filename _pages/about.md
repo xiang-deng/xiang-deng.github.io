@@ -20,19 +20,21 @@ My research interests lie in NLP and data mining, with emphasis on knowledge dis
 
 News
 ===
-- **[June 2022]:** Our OSU TacoBot team earned the third-place honor in the first [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge)! 10 teams were selected worldwide out of 125 initiated applications to participate in the challenge in May 2021 and 5 teams were selected into finals in April 2022. Check out our [report](https://arxiv.org/abs/2207.05223).
+- **[November, 2022]:** I was awarded the Presidential Fellowship from OSU Graduate School! Super grateful for my Advisor Prof. Huan Sun and all the collaboraters! *("The Presidential Fellowship is the most prestigious award given by the Graduate School. Recipients of this award embody the highest standards of scholarship in the full range of Ohio State's graduate programs.")*
+- **[October, 2022]:** Our work *Iteratively Prompt Pre-trained Language Models for Chain of Thought* led by Boshi Wang was accepted to EMNLP 2022!
+- **[June, 2022]:** Our OSU TacoBot team earned the third-place honor in the first [Alexa Prize TaskBot Challenge](https://www.amazon.science/alexa-prize/three-top-performers-emerge-in-inaugural-alexa-prize-taskbot-challenge)! 10 teams were selected worldwide out of 125 initiated applications to participate in the challenge in May 2021 and 5 teams were selected into finals in April 2022. Check out our [report](https://arxiv.org/abs/2207.05223).
 - **[January, 2022]:** Our VLDB'21 paper *TURL: Table Understanding through Representation Learning* was selected for 2022 ACM SIGMOD Research Highlight Award! Check the [paper](https://arxiv.org/abs/2006.14806), [technical perspective](https://sigmodrecord.org/2022/05/02/technical-perspective-of-turl-table-understanding-through-representation-learning/), and [report](https://www.cse.ohio-state.edu/news/2022/06/2022-sigmod-research-highlight-award-and-2021-bibm-best-paper-award) on OSU CSE News.
-- **[May 2022]:** I will join Google Research NYC this summer as a research intern, working on financial social media analysis.
-- **[August 2021]:** Our work *ReasonBert: Pre-trained to Reason with Distant Supervision* is accepted to EMNLP 2021! Find the [paper](https://openreview.net/pdf?id=cGB7CMFtrSx) and try the [pre-trained model](https://huggingface.co/Anonymous).
-- **[August 2021]:** I will join the [OSU Tacobot Team](https://cse.osu.edu/news/2021/06/osu-team-selected-participate-first-alexa-prize-taskbot-challenge) for the [Alexa Prize TaskBot Challenge](https://www.amazon.science/academic-engagements/ten-university-teams-selected-to-participate-in-alexa-prize-taskbot-challenge).
+- **[May, 2022]:** I will join Google Research NYC this summer as a research intern, working on financial social media analysis.
 <details>
   <summary>See More</summary>
   <ul>
+    <li><b>[August, 2021]:</b> Our work <i>ReasonBert: Pre-trained to Reason with Distant Supervision</i> was accepted to EMNLP 2021! Find the <a href="https://openreview.net/pdf?id=cGB7CMFtrSx">paper</a> and try the <a href="https://huggingface.co/osunlp/ReasonBERT-RoBERTa-base">pre-trained model</a>.</li>
+    <li><b>[August, 2021]:</b> I will join the <a href="https://cse.osu.edu/news/2021/06/osu-team-selected-participate-first-alexa-prize-taskbot-challenge">OSU Tacobot Team</a> for the <a href="https://www.amazon.science/academic-engagements/ten-university-teams-selected-to-participate-in-alexa-prize-taskbot-challenge">Alexa Prize TaskBot Challenge</a>.</li>
       <li><b>[May, 2021]:</b> I will Join the Amazon Product Graph Team this summer as Applied Scientist Intern, working on information extraction from structured web pages.</li>
-      <li><b>[March, 2021]:</b>Our work on <i>Structure-Grounded Pretraining for Text-to-SQL</i> is accepted to NAACL 2021!</li>
-      <li><b>[October, 2020]:</b>Our work on <i>Table Understanding through Representation Learning</i> is accepted to VLDB 2021!</li>
+      <li><b>[March, 2021]:</b>Our work on <i>Structure-Grounded Pretraining for Text-to-SQL</i> was accepted to NAACL 2021!</li>
+      <li><b>[October, 2020]:</b>Our work on <i>Table Understanding through Representation Learning</i> was accepted to VLDB 2021!</li>
       <li><b>[May, 2020]:</b> I will Join Microsot Research this summer as Research Intern, working on text2SQL.</li>
-      <li><b>[August, 2019]:</b> Our work on <i>Relation Extraction with 2-hop Distant Supervision</i> is accepted to EMNLP!</li>
+      <li><b>[August, 2019]:</b> Our work on <i>Relation Extraction with 2-hop Distant Supervision</i> was accepted to EMNLP!</li>
     </ul>
 </details>
 
