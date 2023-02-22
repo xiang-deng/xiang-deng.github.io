@@ -16,7 +16,7 @@ My research interests lie in NLP and data mining, with emphasis on knowledge dis
 - **Large-scale pretraining and representation learning** for data from heterogeneous sources, e.g., web texts and tables, knowledge graphs, and databases; both for general and domain-specific applications
 - **Building natural language interfaces** (e.g., question answering, semantic parsing, and dialog systems) with varied data and service as backend.
 
-🏴 <b style="color:#C86D52">I'm looking for full-time positions (I will graduate in Spring 2023)! Feel free to drop me an email if you have openings! [CV (Sept. 2022)](/files/cv_extended.pdf)</b>
+🏴 <b style="color:#C86D52">I'm looking for full-time positions (I will graduate in Summer 2023)! Feel free to drop me an email if you have openings! [CV (Sept. 2022)](/files/cv_extended.pdf)</b>
 
 News
 ===
