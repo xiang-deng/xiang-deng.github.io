@@ -19,10 +19,9 @@ My research interests lie in NLP and data mining, with emphasis on knowledge dis
 
 🏴 <b style="color:#C86D52">I'm looking for full-time positions (I will graduate in Summer 2023)! Feel free to drop me an email if you have openings! [CV (Sept. 2022)](/files/cv_extended.pdf)</b>
 
-News
-===""
+# News
 
-- **[May, 2023]:** Two works accepted to ACL'23! **"Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters"** led by Boshi Wang and **"Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"** led by Yu Gu.
+- **[May, 2023]:** Two works accepted to ACL'23! **"Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters"** led by Boshi Wang, and **"Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments"** led by Yu Gu.
 - **[May, 2023]:** I will attend WWW'23 and present my internship work at Google Research **"What Do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis"**, as well as my on going project **"A More Accessible Web with Natural Language Interface"** [Preview](https://osu-nlp-group.github.io/Mind2Web/).
 - **[November, 2022]:** I was awarded the **Presidential Fellowship** from OSU Graduate School! Super grateful for my Advisor Prof. Huan Sun and all the collaborators! _("The Presidential Fellowship is the most prestigious award given by the Graduate School. Recipients of this award embody the highest standards of scholarship in the full range of Ohio State's graduate programs.")_
 - **[October, 2022]:** Our work **"Iteratively Prompt Pre-trained Language Models for Chain of Thought"** led by Boshi Wang was accepted to EMNLP 2022!
