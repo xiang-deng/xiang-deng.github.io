@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-_Hi_, I am a fifth year Ph.D. candidate in Computer Science & Engineering at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to intern and work with many wonderful industrial collaborators from [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/).
+_Hi_, I am a research engineer at Google, working on developer assistance and coding capabilities of large language models. Previously, I finished my Ph.D. at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/), and received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to intern and work with many wonderful industrial collaborators from [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/).
 
 # Research
 
-My research interests lie in NLP and data mining, with emphasis on knowledge discovery and utilization from heterogeneous sources. The aim is to build AI-powered data systems that can assist with information acquisition and decision making for regular users as well as domain experts in Digital Era. Specifically, I am exploring the following directions:
+My research interests lie in NLP and artificial intelligence in general, with emphasis on utilizing knowledge from heterogeneous sources and developing practical applications with AI. The aim is to build AI-powered systems/agents that can assist with decision-making and daily tasks for regular users as well as domain experts in Digital Era. Specifically, I am interested in the following directions:
 
-- **Large-scale pretraining and representation learning** for data from heterogeneous sources, e.g., web texts and tables, knowledge graphs, and databases; both for general and domain-specific applications
-- **Building natural language interfaces** (e.g., question answering, semantic parsing, and dialog systems) with varied data and service as backend.
+- **Large-scale pretraining and representation learning** for data from heterogeneous sources (plain text, structured data, code, images, etc); both for general and domain-specific applications; and learning beyond next token prediction.
+- **Natural language agents** with varied data, services and environments. Building practical agents that are accessible and collaborative to the user, and generalist agents that are efficient and robust.
+
+My recent work has been focusing on large language models, how to understand and improve their capabilities at different stages of training, how to make them ground and act in the real world, and how to build applications around LLMs that are collaborative, trustworthy and accessible to users. 
 
 # News
 - **[June, 2023]:** Our preprint **"Mind2Web: Towards a Generalist Agent for the Web"** is online, check our [paper](https://arxiv.org/abs/2306.06070) and [explore the dataset](https://osu-nlp-group.github.io/Mind2Web/)!
