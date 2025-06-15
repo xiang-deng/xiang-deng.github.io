@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Deng's<br>Homepage"
+title                    : "Xiang Deng"
 title_separator          : "-"
 name                     : &name "Xiang Deng"
-description              : &description "This is the homepage for Xiang Deng, PhD. Candidate at Ohio State."
+description              : &description "This is the homepage for Xiang Deng, researcher on LLMs and Agents."
 url                      : https://xiang-deng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiang-deng/homepage"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiang Deng"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate,<br>The Ohio State University"
-  location         : "Columbus, Ohio"
+  bio              : "Senior Research Scientist,<br>Scale AI"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=d-qpndsAAAAJ"
-  email            : "deng.595 [at] buckeyemail.osu.edu"
+  email            : "{first_name}{last_name}1029 [at] gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
