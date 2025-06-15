@@ -5,12 +5,18 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **The Ohio State University**, 2018 - 2023 (expected)<br>Studying towards Ph.D, Computer Science and Engineering
+* **The Ohio State University**, 2018 - 2023 <br>Ph.D, Computer Science and Engineering
 * **University of Science and Technology of China**, 2014 - 2018<br>B.Eng. in Computer Science, School of The Gifted Young
 
 Work experience
 ======
-* **The Ohio State University**, Aug 2018 - present
+* **Scale AI**, Oct 2025 - Present
+  * Senior Research Scientist
+
+* **Google Labs**, Aug 2023 - Oct 2025
+  * Research Engineer
+
+* **The Ohio State University**, Aug 2018 - Aug 2023
   * Graduate Research Associate
   * Supervisor: Prof. *Huan Sun*
 
