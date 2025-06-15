@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Hi_, I am a research engineer at Google, working on developer assistance and coding capabilities of large language models. Previously, I finished my Ph.D. at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/), and received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to intern and work with many wonderful industrial collaborators from [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/).
+_Hi_, I am a research engineer at Scale AI, working on coding and agents with large language models. I finished my Ph.D. at [The Ohio State University](https://www.osu.edu/), advised by Dr. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/), and received a B.Eng. in Computer Science from [USTC](https://www.ustc.edu). In the past, I have had the opportunity to work with many wonderful industrial collaborators from [Microsoft Research](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Amazon](https://www.amazon.science/) and [Google Research](https://research.google/).
 
 # Research
 
