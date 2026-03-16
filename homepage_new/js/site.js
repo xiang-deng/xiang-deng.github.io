@@ -24,11 +24,13 @@ function renderSidebar(selector) {
 
     el.innerHTML =
         '<img src="' + site.photo + '" alt="' + site.name + '" class="sidebar-photo">\n' +
-        '                    <div class="sidebar-name">' + site.name + '</div>\n' +
-        '                    <p class="sidebar-title">' + site.title + '</p>\n' +
-        '                    <nav class="sidebar-links">\n' +
-        '                        ' + linksHtml + '\n' +
-        '                    </nav>';
+        '                    <div class="sidebar-info">\n' +
+        '                        <div class="sidebar-name">' + site.name + '</div>\n' +
+        '                        <p class="sidebar-title">' + site.title + '</p>\n' +
+        '                        <nav class="sidebar-links">\n' +
+        '                            ' + linksHtml + '\n' +
+        '                        </nav>\n' +
+        '                    </div>';
 }
 
 function renderFooter(selector) {

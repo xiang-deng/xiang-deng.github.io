@@ -24,7 +24,7 @@ async function renderBlogFeed(jsonUrl, targetSelector) {
       <article class="blog-post">
         <h3><a href="${escapeHtml(post.link)}" target="_blank" rel="noopener">${escapeHtml(post.title)}</a></h3>
         <time>${formatDate(post.date)}</time>
-        <p>${truncate(escapeHtml(post.description), 200)}</p>
+        <p><em>${truncate(escapeHtml(post.description), 200)}</em></p>
       </article>
     `).join('');
 

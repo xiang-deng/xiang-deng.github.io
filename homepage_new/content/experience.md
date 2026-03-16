@@ -1,5 +1,3 @@
-# Experience
-
 ## Work
 
 - **NeoCognition**<br>
