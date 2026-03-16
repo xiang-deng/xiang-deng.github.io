@@ -4,7 +4,7 @@
  */
 
 const FEED_URL = 'https://xiangdeng.substack.com/feed';
-const OUTPUT = 'homepage_new/content/blog.json';
+const OUTPUT = 'content/blog.json';
 
 async function main() {
   const res = await fetch(FEED_URL);
