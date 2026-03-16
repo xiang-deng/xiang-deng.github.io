@@ -2,7 +2,8 @@
 const site = {
     name: 'Xiang Deng',
     title: 'Co-Founder & CTO, NeoCognition',
-    photo: 'assets/profile.jpg',
+    photo: 'assets/profile.gif',
+    photoHover: 'assets/profile.jpg',
     links: [
         { label: 'Scholar', url: 'https://scholar.google.com/citations?user=d-qpndsAAAAJ' },
         { label: 'GitHub', url: 'https://github.com/xiang-deng' },
@@ -23,7 +24,10 @@ function renderSidebar(selector) {
     }).join('\n                        ');
 
     el.innerHTML =
-        '<img src="' + site.photo + '" alt="' + site.name + '" class="sidebar-photo">\n' +
+        '<div class="sidebar-photo-wrapper">' +
+        '<img src="' + site.photo + '" alt="' + site.name + '" class="sidebar-photo">' +
+        '<img src="' + site.photoHover + '" alt="' + site.name + '" class="sidebar-photo sidebar-photo-hover">' +
+        '</div>\n' +
         '                    <div class="sidebar-info">\n' +
         '                        <div class="sidebar-name">' + site.name + '</div>\n' +
         '                        <p class="sidebar-title">' + site.title + '</p>\n' +

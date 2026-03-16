@@ -303,13 +303,34 @@ a:hover {
   padding-right: 0;
 }
 
+.sidebar-photo-wrapper {
+  position: relative;
+  width: 140px;
+  height: 140px;
+  margin: 0 auto var(--space-4);
+  flex-shrink: 0;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
 .sidebar-photo {
   width: 140px;
   height: 140px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  margin-bottom: var(--space-4);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sidebar-photo-hover {
+  clip-path: polygon(-10% 110%, -10% 110%, -10% 110%);
+  transition: clip-path 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sidebar-photo-wrapper:hover .sidebar-photo-hover {
+  clip-path: polygon(-10% 110%, -10% -300%, 300% 110%);
 }
 
 .sidebar-name {
@@ -392,11 +413,15 @@ a:hover {
     border-left: none;
   }
 
+  .sidebar-photo-wrapper {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+  }
+
   .sidebar-photo {
     width: 80px;
     height: 80px;
-    margin-bottom: 0;
-    flex-shrink: 0;
   }
 
   .sidebar-links {
